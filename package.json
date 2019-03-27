@@ -1,0 +1,21 @@
+{
+  "name": "ep_log_auth_failure_ip",
+  "version": "0.1.0",
+  "description": "Extends etherpad-lite logging to log ip address if authentication failed",
+  "main": "ep_log_auth_failure_ip.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thechristschn/ep_log_auth_failure_ip.git"
+  },
+  "keywords": [
+    "etherpad",
+    "logging",
+    "authentication"
+  ],
+  "author": "Christian Baumann",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/thechristschn/ep_log_auth_failure_ip/issues"
+  },
+  "homepage": "https://github.com/thechristschn/ep_log_auth_failure_ip#readme"
+}

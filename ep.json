@@ -1,0 +1,10 @@
+{
+  "parts": [
+    {
+      "name": "ep_log_auth_failure_ip",
+      "hooks": {
+        "authFailure": "ep_log_auth_failure_ip/ep_log_auth_failure_ip"
+      }
+    }
+  ]
+}
