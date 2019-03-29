@@ -1,6 +1,6 @@
 {
   "name": "ep_log_auth_failure_ip",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Extends etherpad-lite logging to log ip address if authentication failed",
   "main": "ep_log_auth_failure_ip.js",
   "repository": {
